@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
