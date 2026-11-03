@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0066-plus-one) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
