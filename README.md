@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0066-plus-one) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0011-container-with-most-water) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
@@ -76,9 +79,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
