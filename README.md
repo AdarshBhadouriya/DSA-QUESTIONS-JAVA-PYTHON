@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0066-plus-one) |
+| [2401-longest-nice-subarray](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2401-longest-nice-subarray) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2401-longest-nice-subarray](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2401-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
