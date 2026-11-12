@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2401-longest-nice-subarray) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdarshBhadouriya/DSA-QUESTIONS-JAVA-PYTHON/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
